@@ -1,5 +1,5 @@
 [package]
-name = "art"
+name = "art_color_mixer"
 description = "mixes colors"
 version = "0.1.0"
 edition = "2021"
